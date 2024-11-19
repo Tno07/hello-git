@@ -1,0 +1,1 @@
+let hi2 = "Hello git 2!";
